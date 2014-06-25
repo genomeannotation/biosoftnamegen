@@ -1,0 +1,30 @@
+{
+
+  "adjective phrases": [
+                        ["Bayesian", ["B", "B", "Bay", "Bayes"]], ["Parallel", ["P", "P", "Para"]],
+                        ["Hidden Markov", ["H", "HM", "HMark", "HiMar", "HidMa"]],
+                        ["Heuristic", ["H", "Heu", "Heur"]], ["Machine Learning", ["M", "ML", "MaL"]],
+                        ["Maximum Likelihood", ["M", "M", "Max", "MaxLike", "ML"]]
+                       ],
+                      
+  "domains": [
+              ["Genomics", ["G", "G", "Gen", "Geno"]], ["Transcriptome", ["T", "T", "Tran", "Trans"]],
+              ["Genome", ["G", "G", "Ge", "Gen", "Geno"]], ["Short Reads", ["S", "SR", "ShR", "ShRe", "SRe"]],
+              ["Assembly", ["A", "A", "As"]], ["Raw Reads", ["R", "RR", "RawR", "rr"]],
+              ["K-mer", ["K", "K", "mer"]]
+             ],
+                      
+  "actions": [
+              ["Analysis", ["A", "A", "Ana"]], ["Modeling", ["M", "M", "Mo", "Mod", "Modl"]],
+              ["Quality Filtering", ["Q", "QF", "QFil", "QFilt", "QualF"]],
+              ["Filtering", ["F", "F", "Fil"]], ["Demultiplexing", ["D", "D", "Demu", "Demux"]],
+              ["Annotation", ["A", "A", "An", "Anno"]]
+             ],
+                      
+  "doers": [
+            ["Toolkit", ["T", "TK", "To", "Too", " Tools"]], ["Pipeline", ["P", "P", "Pipe", "line"]],
+            ["Visualizer", ["V", "V", "Vis", "lizer"]], ["Workbench", ["WB", "Bench"]],
+            ["Generator", ["G", "G", "Gen"]], ["Investigator", ["I", "I", "vestigator"]]
+           ]     
+                                                   
+}
